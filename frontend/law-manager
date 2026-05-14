@@ -1,0 +1,9 @@
+# ติดตั้ง dependencies
+cd frontend
+npm install
+
+# รัน development server
+npm run dev
+
+# Build for production
+npm run build
